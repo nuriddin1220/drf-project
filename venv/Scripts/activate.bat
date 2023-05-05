@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Tesla\Desktop\Test_Python\drf-project\venv
+set VIRTUAL_ENV=C:\Users\sharipov.n\Desktop\PYTHON_TRAINING\drf-project\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
